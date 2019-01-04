@@ -5,6 +5,8 @@ Chicken
 Eggs
 Onions
 Bacon
+Olives
+Cheese
 
 Sauce
 -----------
